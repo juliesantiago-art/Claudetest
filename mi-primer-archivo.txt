@@ -1,0 +1,13 @@
+Hola GitHub!
+
+Este es mi primer archivo de texto en un repositorio.
+Cada vez que edito este archivo y hago un commit,
+GitHub guarda ese cambio en el historial.
+
+Puedes intentar:
+1. Editar este archivo
+2. Hacer git add mi-primer-archivo.txt
+3. Hacer git commit -m "edite mi primer archivo"
+4. Hacer git push
+
+Y luego ver en GitHub como aparece tu cambio!
